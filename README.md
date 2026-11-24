@@ -10,7 +10,7 @@ Currently, I'm strengthening my programming fundamentals with Java and DSA while
 
 ### 🚀 About Me
 
-- 🎓 BTech Student at Baderia Global Institute of Engineering and Management.
+- 🎓 BTech Student.
 - 💻 Learning Web Development and Programming.
 - ☁️ AWS Student Builders Campus Leader 2026.
 - 🌱 Currently learning Java, Data Structures & Algorithms, HTML and CSS.
